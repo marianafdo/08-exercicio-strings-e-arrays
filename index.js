@@ -29,7 +29,7 @@ console.log(comidasPreferidas[2])
 console.log(comidasPreferidas[3])
 console.log(comidasPreferidas[4])
 
-let = prompt("Qual sua comida preferida?");
+let comidaDoUsuario = prompt("Qual sua comida preferida?");
 comidasPreferidas[1] = comidaDoUsuario;
 
 console.log(comidasPreferidas);
